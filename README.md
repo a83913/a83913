@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm André 👋
 
-<!--
-**a83913/a83913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Engineering student at the University of Algarve, Portugal.
+I do full-stack web development and like building things end to end, from the UI to the database.
 
-Here are some ideas to get you started:
+### Tech I use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://skillicons.dev/icons?i=react,ts,js,nodejs,postgres,java,python,c,cpp,go,git,docker,linux)
+
+### Recent work
+
+**Veterinary clinic management platform**: university team project (Software Engineering Lab, 5 people).
+Full-stack web app with React on the frontend and Node.js + Prisma on the backend, Swagger docs,
+Docker Compose and CI with automated releases. I worked mainly on the frontend. *(private repo)*
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/andre-mc-sousa)
